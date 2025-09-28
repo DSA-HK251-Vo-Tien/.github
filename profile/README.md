@@ -1,4 +1,4 @@
-# Khóa BTL2 - DSA2 HK251 
+# Khóa BTL1 - DSA1 HK251 
 
 ## 🎯 Mục tiêu
 - Nắm vững kiến thức về cấu trúc dữ liệu **Linked List, Array, Queue, Stack**
