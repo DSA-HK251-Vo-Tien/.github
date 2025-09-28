@@ -6,9 +6,6 @@
 - Tiếp cận các ứng dụng thực tế
 - Hiện thực đồ án **BTL1**
 
-## 📅 Lộ trình học
-# 📚 Lộ trình học theo Task
-
 ## 🚀 Roadmap
 
 - **🟢 Task 1**: Setup doctest (Ubuntu Docker, VSCode, debug C++, lệnh cơ bản)
